@@ -1,0 +1,25 @@
+body{
+    background-color: #F5F4F4;
+}
+header{
+    background-color: #004D29;
+}
+.product_section .box {
+    position: relative;
+    margin-top: 25px;
+    padding: 35px 35px;
+    background-color: #F5F4F4;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    overflow: hidden;
+    box-shadow: 5px 5px 5px -5px rgba(0,0,0,.2);
+    border: solid #004D29 10px;
+    border-radius: 20px;
+}
+.heading_container h2 {
+    color: #004D29;
+    position: relative;
+    margin-bottom: 0;
+    font-size: 3.5rem;
+    font-weight: bold;
+}

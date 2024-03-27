@@ -1,0 +1,13 @@
+body{
+    background-color: #F5F4F4;
+}
+header{
+    background-color: #004D29;
+}
+.heading_container h2 {
+    color: #004D29;
+    position: relative;
+    margin-bottom: 0;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
